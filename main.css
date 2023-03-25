@@ -1,0 +1,417 @@
+*{
+    
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-collapse{
+    margin-left: 470px;
+   width: 900px;
+}
+/* .navbar{
+    position:fixed ;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    background-color: white;
+} */
+   
+.navbar-collapse  a:hover{
+text-decoration: underline;
+text-underline-offset: 8px;
+
+}
+.navbar-collapse {
+    position: absolute;
+        	} 
+.nav-item{
+margin-left: 45px;
+font-size: 13px;
+}
+.navbar-nav{
+    margin-left: 90px;
+    margin-top: 4px;
+}
+.container-fluid{
+    margin-top: 35px;
+    width:100%;
+}
+.navbar-brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+.backk{
+    background-image: url("../ELI/fto1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 300px 10px;
+margin-top: 100px;
+width: 1350px;
+height: 850px;
+padding-right: 4px;
+display: flex;
+justify-content: space-between;
+
+
+
+
+   
+}
+.text{
+   
+    height: 400px;
+    width: 370px;
+    margin-top: 200px;
+   
+  
+}
+
+
+ .btnn{
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    font-size: medium;
+    margin-top: 30px;
+    }
+.txt{
+    margin-top: 50px;
+}
+.titlee{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fixed{
+    position:fixed ;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    background-color: white;
+    /* position: fixed;
+    top: 0;
+    left: 20px;
+    right: 0;
+    z-index: 999; */
+}
+.baslik{
+    position: relative;
+    left: 100px;
+}
+.text2{
+    width: 800px;
+    height: 100px;
+  margin-left: 350px;
+  margin-bottom: 60px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.txt2{
+    width:530px;
+    height: 50px;
+   margin-right: 20px;
+   margin-top: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 17px;
+}
+.foto1{
+   position: relative;
+   top: 80px;
+ left: 53px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.btnx{
+
+    width: 140px;
+    height: 45px;
+    padding: 10px 30px;
+    background-color: black;
+   color: azure;
+   border: none;
+   position: relative;
+   top:478px ;
+   right:255px ;
+ }  
+
+.ttle{
+    display: flex;
+    
+width: 1300px;
+height: 600px;
+    position: relative;
+    top: 325px;
+    left: 10px;
+}
+.txte{
+    width: 420px;
+    height: 440px;
+}
+.fotow{
+    position: relative;
+    width: 490px;
+ height: 580px;
+ margin-left: 280px;
+}
+.ftw{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.btn2{
+    width: 150px;
+    height: 55px;
+    background-color: black;
+  
+    position: relative;
+   
+    top: 40px;
+}
+.hh{
+    
+    margin-top: 450px;
+    font-size: 38px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.photo{
+    width: 1406px;
+    height: 650px;
+  
+  position: relative;
+  top: 80px;
+  right: 45px;
+   display: flex;
+   justify-content: space-around;
+}
+.btn3{
+    width: 180px;
+    height: 50px;
+    background-color: black;
+  position: relative;
+  left: 570px;
+  bottom: 15px;
+
+}
+.bcgrnd{
+    background-color: rgb(44, 43, 43);
+    width:100%;
+    height: 420px;
+    position: relative;
+    top: 150px;
+    display: flex;
+
+}
+.divx{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    height: 200px;
+    margin-top: 80px;
+margin-left: 50px;
+}
+.card1{
+    color: white;
+    height: 150px;
+}
+.card2{
+    color: white;
+    height: 150px;
+}
+.card3{
+    color: white;
+  
+    height: 150px;
+ 
+}
+.titlex{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    height: 300px;
+    position: relative;
+    top: 70px;
+    left: 100px;
+}
+.submitt{
+    width: 120px;
+    height: 50px;
+    background-color:rgb(255, 255, 255);
+   
+  position: relative;
+ 
+  bottom: 18px;  
+}
+.divv{
+
+height: 100px;
+position: relative;
+bottom: 170px;
+left: 100px;
+
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+    
+    color: white;
+    height: 100px;
+    width: 200px;
+    position: relative;
+    margin-top: 300px;
+   right: 1130px;
+    
+}
+/* about tabi */
+
+.cls1{
+   font-size: 20px;
+   position: relative;
+   top: 200px;
+   text-align: center;
+
+}
+.numx{
+    position: relative;
+    top: 320px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.txti{
+   
+    position: relative;
+    top: 420px;
+    left: 160px;
+    width: 1000px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.add{
+   
+    width: 300px;
+    position: relative;
+    top: 500px;
+    left: 900px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.asg{
+    position: relative;
+    top: 400px;
+}
+/* insights tabi */
+.common{
+   
+   
+   display: flex;
+   justify-content: space-around;
+   position: relative;
+   top: 260px;
+   left: 100px;
+   width: 1300px;
+   height: 1600px;
+}
+.titleone{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.titletwo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.titlethree{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  
+} 
+.ftww{
+    position: relative;
+    top: 200px;
+}
+/* contact tabi */
+.part{
+    
+    position: relative;
+    top: 200px;
+    display: flex;
+}
+.part2{
+margin-top: 150px;
+margin-left: 120px;
+}
+.udw{
+    width: 450px;
+    height: 50px;
+    background-color: rgb(238, 233, 233);
+  border: none;
+}
+
+.sbmt{
+    position: relative;
+    color: aliceblue;
+    top: 40px;
+    width: 130px;
+    height: 40px;
+}
+.xxxx{
+    margin-top: 200px;
+
+}
+.diiv{
+margin-top: 10px;
+
+}
+
+.diivx{
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    gap: 10px;
+}
+
+
+.diivy{
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    position: relative;
+    top: 30px;
+}
+.diiv1{
+    width: 424px;
+    height: 512px;
+}
+.diiv1 .imgContainer{
+    width: 100%;
+    height: 407px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.diiv1 .imgContainer .boxShadow{
+    position: absolute;
+    width: 100%;
+    height: 407px;
+    top: 0;
+    transition: all .5s ease;
+}
+.diiv1 .imgContainer img{
+    width: 100%;
+}
+
+.diiv1 .forText{
+    width: 100%;
+    height: 17px;
+}
+.diiv1 .imgContainer .boxShadow:hover{
+    -webkit-box-shadow: inset 1px 1px 25px 14px rgba(0,0,0,0.64); 
+box-shadow: inset 1px 1px 25px 14px rgba(0,0,0,0.64);
+}
